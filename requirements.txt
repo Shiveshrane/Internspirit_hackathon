@@ -1,4 +1,4 @@
-﻿absl-py==2.1.0
+absl-py==2.1.0
 astunparse==1.6.3
 blinker==1.9.0
 certifi==2025.1.31
@@ -28,7 +28,7 @@ opt_einsum==3.4.0
 optree==0.14.0
 packaging==24.2
 pandas==2.2.3
-protobuf==4.24.3
+protobuf==4.25.6
 Pygments==2.19.1
 python-dateutil==2.9.0.post0
 pytz==2025.1
